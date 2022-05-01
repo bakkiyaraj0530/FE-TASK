@@ -1,4 +1,4 @@
-# Getting Started with Create React App to list the tickets - FE TASK
+# React application to list the tickets of existing products - FE TASK
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
