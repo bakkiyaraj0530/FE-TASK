@@ -6,6 +6,10 @@ Application is developed to show the product listing.
 
 In the project directory, you can run:
 
+### `npm install`
+
+ Run the installing command to support npm module for the projects.
+ 
 ### `npm run dev`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
